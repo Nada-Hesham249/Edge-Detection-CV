@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Shape Detection
+#  Computer Vision Shape Detection
 
 A computer vision project implementing classical image processing techniques for **shape detection** using OpenCV.
 
@@ -74,5 +74,5 @@ This mode focuses on object segmentation using contour evolution techniques.
 ---
 
 ## 👥 Contributors
-|  [Mostafa Ayman](https://github.com/mostafaayman646) | [Amr](https://github.com/Amr20545) | [Nada Hesham](https://github.com/Nada-Hesham249)  | [Samar Hatem](https://github.com/samarhatem0405) | [Nada Hassan](https://github.com/Nadahassan147)  |
+|  [Mostafa Ayman](https://github.com/mostafaayman646) | [Amr](https://github.com/Amr2054) | [Nada Hesham](https://github.com/Nada-Hesham249)  | [Samar Hatem](https://github.com/samarhatem0405) | [Nada Hassan](https://github.com/Nadahassan147)  |
 |-------------------------------|---------------------------|-----------------------------------|-------------------------------|-------------------------------|
